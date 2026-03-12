@@ -210,4 +210,4 @@ Possible improvements for future iterations include:
 
 ## Author
 
-Matthew Studnitskiy
+Matvii Studnytskiy
